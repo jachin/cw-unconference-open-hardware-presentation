@@ -32,13 +32,13 @@
 
 # No Case.. #
 
-## but Alex **Barratt** Made one for me though with his... ##
+## but Alex **Barrett** Made one for me though with his... ##
 
 # 3D Printer #
 
 !SLIDE
 
-# Thanks Barratt #
+# Thanks Barrett #
 
 ![Case](case.jpeg)
 
