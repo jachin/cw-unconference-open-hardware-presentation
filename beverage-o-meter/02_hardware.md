@@ -2,7 +2,7 @@
 
 # It's a computer. #
 
-!SLIDE bullets
+!SLIDE bullets 
 
 * **Processor:** 700 MHz ARM1176JZF-S core
 * **Video:** Broadcom VideoCore IV, OpenGL ES 2.0, MPEG-2 and VC-1 (with license), 1080p30
