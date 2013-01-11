@@ -11,27 +11,42 @@
 * **USB:** 2 2.0 Ports
 * **Cost:** $35 USD
 
-!SLIDE full-page
+!SLIDE  full-page
 
-<img src="Raspi_Colour_R.png" height="75%" />
-
-!SLIDE full-page
-
-<img src="model_b.jpg" height="75%" />
+![Raspi_Colour_R](Raspi_Colour_R.png)
 
 !SLIDE full-page
 
-<img src="RaspiModelB.png" height="75%" />
+<img src="model_b.jpg" width="75%" />
+
+!SLIDE
+
+<!--<img src="RaspiModelB.png" style="width: 75%" />-->
+![RaspiModelB](RaspiModelB.png)
 
 !SLIDE full-page
 
-<img src="quick_start.png" height="75%" />
+<img src="quick_start.png" width="75%" />
+
+!SLIDE
+
+# No Case.. #
+
+## but Alex **Barratt** Made one for me though with his... ##
+
+# 3D Printer #
+
+!SLIDE
+
+# Thanks Barratt #
+
+![Case](case.jpeg)
 
 !SLIDE
 
 # Should I get a Raspberry PI? #
 
-!SLIDE bullets incremental transition=fade
+!SLIDE
 
 # Yes, you should get a Raspberry PI. #
 

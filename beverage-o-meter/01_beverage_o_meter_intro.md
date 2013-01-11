@@ -2,7 +2,7 @@
 
 # What does this "beverage-o-meter" do? #
 
-!SLIDE bullets incremental transition=fade
+!SLIDE bullets
 
 * Scans in bar codes.
 * Stores the scans in a database.
@@ -12,7 +12,7 @@
 
 # What is it made out of? #
 
-!SLIDE bullets incremental transition=fade
+!SLIDE bullets
 
 # Parts #
 
@@ -28,7 +28,7 @@
 
 # Really, that's it? #
 
-!SLIDE bullets incremental transition=fade
+!SLIDE bullets
 
 # Other Parts That Were Needed #
 
@@ -40,7 +40,9 @@
 
 !SLIDE
 
-# What exactly is this Rasberry PI? #
+## What exactly is this...##
+
+# "Rasberry PI?"" #
 
 
 

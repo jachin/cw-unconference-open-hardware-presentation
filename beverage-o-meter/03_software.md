@@ -1,5 +1,7 @@
 !SLIDE
 
+### Back to this beverage-o-meter thing... ###
+
 # What sort of softare is needed? #
 
 !SLIDE bullets
@@ -11,13 +13,15 @@
 * sqlite
 * tmux
 * wicd (WIFI Management)
-* lighttpd
+* lighttpd (webserver)
 
 !SLIDE
 
-Followed the instructions on the RaspberyPI site to install "wheezy".
+# Very Easy #
 
-Installed everything else via apt-get and python's package manager pip.
+## FTM on the RaspberyPI site to install "wheezy". ##
+
+## Everything else via apt-get and pip. ##
 
 !SLIDE
 
