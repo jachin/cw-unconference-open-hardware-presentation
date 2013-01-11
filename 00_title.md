@@ -2,5 +2,4 @@
 
 # Open Hardware #
 
-!SLIDE
-
+### Clockwork Unconference 2012 ###
